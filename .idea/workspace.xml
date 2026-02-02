@@ -8,7 +8,9 @@
     <bookmark url="file://$PROJECT_DIR$/../contractsnew/contracts/contracts/EscrowAndStaking/StakingThalesBonusRewardsManager.sol" description="    /// @notice return leaderboard data&#10;    functi..." line="230" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c62eee3d-73ff-4813-a849-1edca003d99c" name="Default Changelist" comment="" />
+    <list default="true" id="c62eee3d-73ff-4813-a849-1edca003d99c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +272,7 @@
       <workItem from="1738578163713" duration="6512000" />
       <workItem from="1752765601722" duration="356000" />
       <workItem from="1768985197428" duration="460000" />
-      <workItem from="1770030036382" duration="504000" />
+      <workItem from="1770030036382" duration="2079000" />
     </task>
     <servers />
   </component>
